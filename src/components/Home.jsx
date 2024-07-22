@@ -6,13 +6,9 @@ const Home = () => {
       <Helmet>
         <title>QuizDash - Home</title>
       </Helmet>
-      <div id="home">
+      <div id="home-page">
         <section>
-          <div
-            style={{
-              textAlign: 'center',
-            }}
-          >
+          <div className="cube-div">
             <span className="mdi mdi-cube-outline cube"></span>
           </div>
           <h1>QuizDash</h1>
