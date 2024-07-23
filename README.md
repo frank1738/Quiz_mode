@@ -8,7 +8,7 @@
 
 - # 📖 Quiz Dash <a name="about-project"></a>
 
-> Quiz Dash is an interactive quiz application that provides immediate answer feedback, tracks user attempts, offers hints, includes audio feedback, features a countdown timer, and provides score-based remarks. This project demonstrates advanced React state management and user interface techniques.
+> Quiz Dash is an engaging quiz game that offers immediate answer feedback, tracks user attempts, provides hints, includes audio feedback, features a countdown timer, and delivers score-based remarks. This project showcases advanced React state management and dynamic user interface techniques, creating a fun and interactive learning experience.
 
 
 ## 🛠 Built With <a name="built-with"></a>
