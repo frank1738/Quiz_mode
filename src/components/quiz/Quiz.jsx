@@ -219,6 +219,7 @@ const Quiz = () => {
 
   useEffect(() => {
     if (time === 0) {
+      wrongAnswerAudioRef.current.play();
       M.toast({
         html: 'Time is up!',
         classes: 'toast-invalid',
