@@ -1,8 +1,63 @@
-# React + Vite
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
+- [👥 Authors](#authors)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [🤝 Contributing](#contributing)
 
-Currently, two official plugins are available:
+- # 📖 Quiz Dash <a name="about-project"></a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Quiz Dash is an interactive quiz application that provides immediate answer feedback, tracks user attempts, offers hints, includes audio feedback, features a countdown timer, and provides score-based remarks. This project demonstrates advanced React state management and user interface techniques.
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+     <li>React </li>
+  </ul>
+</details>
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [quizdash](https://669f81bbee2f1700796035d1--brilliant-baklava-50bd07.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 👥 Authors <a name="authors"></a>
+
+
+
+👤 **Frank1738**
+
+- GitHub: [![LinkedIn Badge](https://img.shields.io/badge/-frank1738-black?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://github.com/frank1738)
+
+- Twitter: [![LinkedIn Badge](https://img.shields.io/badge/-frank1738-black?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://twitter.com/frankhiggins08)
+
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-frank1738-black?logo=LinkedIn&logoColor=0A66C2&style=plastic)](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
+
+- Gmail: [![LinkedIn Badge](https://img.shields.io/badge/-frank1738-black?logo=LinkedIn&logoColor=0A66C2&style=plastic)](mailto:franklineosoro08@gmail.com)
+
+
+## 🔭 Future Features <a name="future-features"></a>
+- Shelfwise is an ongoing project, with core functionalities completed and fully operational. The admin CRUD operations are currently under development and will further enhance the application's capabilities. 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
