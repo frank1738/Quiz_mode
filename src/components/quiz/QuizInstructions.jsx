@@ -16,12 +16,13 @@ const QuizInstructions = () => {
         <p>Ensure you read this guide from start to finish.</p>
         <ul className="browser-default" id="main-list">
           <li>
-            The game has a duration of 15 minutes and ends as soon as your time
+            The game has a duration of 2 minutes and ends as soon as your time
             elapses.
           </li>
-          <li>Each game consists of 15 questions.</li>
+          <li>Each game consists of 10 questions.</li>
           <li>
-            Every question contains 4 options.
+            Every question contains 4 options with a maximum of three attempts
+            on each question.
             <img src={options} alt="Quiz App options example" />
           </li>
           <li>
