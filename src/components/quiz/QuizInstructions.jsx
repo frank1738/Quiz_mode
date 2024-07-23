@@ -33,7 +33,7 @@ const QuizInstructions = () => {
             Each game has 2 lifelines namely:
             <ul id="sublist">
               <li>2 50-50 chances</li>
-              <li>5 Hints</li>
+              <li>3 Hints</li>
             </ul>
           </li>
           <li>
