@@ -8,7 +8,7 @@ const Home = () => {
       </Helmet>
       <div id="home-page">
         <section>
-          <div className="cube-div">
+          <div className="cube-div rotate">
             <span className="mdi mdi-cube-outline cube"></span>
           </div>
           <h1>QuizDash</h1>

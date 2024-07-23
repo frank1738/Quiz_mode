@@ -39,7 +39,9 @@ const QuizInstructions = () => {
           <li>
             Selecting a 50-50 lifeline by clicking the icon{' '}
             <span className="mdi mdi-set-center mdi-24px lifeline-icon"></span>{' '}
-            will remove 2 wrong answers, leaving the correct answers.
+            will remove 2 wrong answers, leaving the correct answer and one
+            wrong answer
+            <br />
             <img src={fiftyFifty} alt="Quiz App Fifty-Fifty example" />
           </li>
           <li>
@@ -48,6 +50,7 @@ const QuizInstructions = () => {
             will remove one wrong answer leaving two wrong answers and one
             correct answer. You can use as many hints as possible on a single
             question.
+            <br />
             <img src={hints} alt="Quiz App hints example" />
           </li>
           <li>
@@ -57,7 +60,7 @@ const QuizInstructions = () => {
           <li>The timer starts as soon as the game loads.</li>
           <li>Let's do this if you think you've got what it takes?</li>
         </ul>
-        <div>
+        <div className="quiz-structions-bottom-links">
           <span className="left">
             <Link to="/">No take me back</Link>
           </span>

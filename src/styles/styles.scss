@@ -3,7 +3,9 @@
 @import './base/settings';
 @import './base/base';
 @import './components/home';
-@import './components/_quiz-instructions';
+@import './components/quiz-instructions';
+@import './components/quiz';
+@import './components/_quiz-summary';
 
 #home-page {
   background-image: url('../assets/images/bg2.jpg');

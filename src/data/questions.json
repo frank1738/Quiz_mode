@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital city of Japan?",
+    "optionA": "Tokyo",
+    "optionB": "Beijing",
+    "optionC": "Seoul",
+    "optionD": "Bangkok",
+    "answer": "Tokyo",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "optionA": "Earth",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Jupiter",
+    "answer": "Mars",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 3,
+    "question": "What is the largest mammal in the world?",
+    "optionA": "Elephant",
+    "optionB": "Blue Whale",
+    "optionC": "Giraffe",
+    "optionD": "Great White Shark",
+    "answer": "Blue Whale",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "optionA": "Charles Dickens",
+    "optionB": "Jane Austen",
+    "optionC": "William Shakespeare",
+    "optionD": "Mark Twain",
+    "answer": "William Shakespeare",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 5,
+    "question": "What is the hardest natural substance on Earth?",
+    "optionA": "Gold",
+    "optionB": "Iron",
+    "optionC": "Diamond",
+    "optionD": "Platinum",
+    "answer": "Diamond",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 6,
+    "question": "Which organ in the human body is primarily responsible for detoxification?",
+    "optionA": "Heart",
+    "optionB": "Lungs",
+    "optionC": "Liver",
+    "optionD": "Kidneys",
+    "answer": "Liver",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 7,
+    "question": "In which year did the Titanic sink?",
+    "optionA": "1912",
+    "optionB": "1920",
+    "optionC": "1918",
+    "optionD": "1905",
+    "answer": "1912",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 8,
+    "question": "What is the smallest country in the world?",
+    "optionA": "Monaco",
+    "optionB": "Malta",
+    "optionC": "Vatican City",
+    "optionD": "San Marino",
+    "answer": "Vatican City",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 9,
+    "question": "What is the chemical symbol for water?",
+    "optionA": "H2O",
+    "optionB": "O2",
+    "optionC": "CO2",
+    "optionD": "H2",
+    "answer": "H2O",
+    "selectedAnswer": "",
+    "attempts": []
+  },
+  {
+    "id": 10,
+    "question": "Which famous scientist developed the theory of relativity?",
+    "optionA": "Isaac Newton",
+    "optionB": "Galileo Galilei",
+    "optionC": "Albert Einstein",
+    "optionD": "Nikola Tesla",
+    "answer": "Albert Einstein",
+    "selectedAnswer": "",
+    "attempts": []
+  }
+]

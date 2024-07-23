@@ -1,41 +1,45 @@
 .instructions {
-    border: 1px solid darken($off-white, 10%);
-    border-radius: 5px;
-    margin-top: $lg;
-    margin-bottom: $lg;
-    padding: $sm $lg;
+  border: 1px solid darken($off-white, 10%);
+  border-radius: 5px;
+  margin-top: $lg;
+  margin-bottom: $lg;
+  padding: $sm $lg;
 
-    h1 {
-        color: $off-black;
-        font-size: $md;
-        text-align: center;
-    }
+  .quiz-structions-bottom-links {
+    margin-bottom: 40px;
+  }
 
-    .lifeline {
-        position: relative;
-        top: -3px;
-    }
+  h1 {
+    color: $off-black;
+    font-size: $md;
+    text-align: center;
+  }
 
-    .lifeline-icon {
-        color: $green;
-        cursor: pointer;
-    }
+  .lifeline {
+    position: relative;
+    top: -3px;
+  }
 
-    .browser-default {
-        padding-left: 30px;
-        margin-top: 10px;
-        margin-bottom: 15px;
-    }
+  .lifeline-icon {
+    color: $green;
+    cursor: pointer;
+  }
 
-    img {
-        width: 80%;
-        height: 50%;
-    }
-} 
+  .browser-default {
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  img {
+    width: 80%;
+    height: 50%;
+  }
+}
 
 @media (max-width: $md-breakpoint) {
-    .instructions img {
-        width: 100% !important;
-        height: 150% !important;
-    }
+  .instructions img {
+    width: 100% !important;
+    height: 150% !important;
+  }
 }
