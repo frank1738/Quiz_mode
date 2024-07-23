@@ -46,9 +46,6 @@
 - Gmail: [![LinkedIn Badge](https://img.shields.io/badge/-frank1738-black?logo=LinkedIn&logoColor=0A66C2&style=plastic)](mailto:franklineosoro08@gmail.com)
 
 
-## 🔭 Future Features <a name="future-features"></a>
-- Shelfwise is an ongoing project, with core functionalities completed and fully operational. The admin CRUD operations are currently under development and will further enhance the application's capabilities. 
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
